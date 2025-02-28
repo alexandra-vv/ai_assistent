@@ -2,9 +2,11 @@
 
 Ссылка на проект - @ZavodArkadia_bot
 
-![Скриншот к проекту](https://github.com/alexandra-vv/ai_assistent/blob/main/e953725780.jpg?raw=true)
-![Скриншот к проекту](https://github.com/alexandra-vv/ai_assistent/blob/main/517a980629.jpg?raw=true)
-![Скриншот к проекту](https://github.com/alexandra-vv/ai_assistent/blob/main/0a5c9489bd.jpg?raw=true)
+![Скриншот1 к проекту](https://github.com/alexandra-vv/ai_assistent/blob/main/e953725780.jpg?raw=true)
+
+![Скриншот2 к проекту](https://github.com/alexandra-vv/ai_assistent/blob/main/517a980629.jpg?raw=true)
+
+![Скриншот3 к проекту](https://github.com/alexandra-vv/ai_assistent/blob/main/0a5c9489bd.jpg?raw=true)
 
 ## Описание проекта
 
